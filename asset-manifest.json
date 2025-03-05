@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AurianDU/Asynchrone.git/static/css/main.872e0df7.css",
+    "main.js": "/AurianDU/Asynchrone.git/static/js/main.a2d49d50.js",
+    "index.html": "/AurianDU/Asynchrone.git/index.html",
+    "main.872e0df7.css.map": "/AurianDU/Asynchrone.git/static/css/main.872e0df7.css.map",
+    "main.a2d49d50.js.map": "/AurianDU/Asynchrone.git/static/js/main.a2d49d50.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.872e0df7.css",
+    "static/js/main.a2d49d50.js"
+  ]
+}
