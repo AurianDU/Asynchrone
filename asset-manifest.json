@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/AurianDU/Asynchrone.git/static/css/main.872e0df7.css",
-    "main.js": "/AurianDU/Asynchrone.git/static/js/main.2c30fcf2.js",
-    "index.html": "/AurianDU/Asynchrone.git/index.html",
-    "main.872e0df7.css.map": "/AurianDU/Asynchrone.git/static/css/main.872e0df7.css.map",
-    "main.2c30fcf2.js.map": "/AurianDU/Asynchrone.git/static/js/main.2c30fcf2.js.map"
+    "main.css": "/AurianDU/Asynchrone/static/css/main.872e0df7.css",
+    "main.js": "/AurianDU/Asynchrone/static/js/main.0775ca9b.js",
+    "index.html": "/AurianDU/Asynchrone/index.html",
+    "main.872e0df7.css.map": "/AurianDU/Asynchrone/static/css/main.872e0df7.css.map",
+    "main.0775ca9b.js.map": "/AurianDU/Asynchrone/static/js/main.0775ca9b.js.map"
   },
   "entrypoints": [
     "static/css/main.872e0df7.css",
-    "static/js/main.2c30fcf2.js"
+    "static/js/main.0775ca9b.js"
   ]
 }
