@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/AurianDU/Asynchrone/static/css/main.872e0df7.css",
-    "main.js": "/AurianDU/Asynchrone/static/js/main.0775ca9b.js",
-    "index.html": "/AurianDU/Asynchrone/index.html",
-    "main.872e0df7.css.map": "/AurianDU/Asynchrone/static/css/main.872e0df7.css.map",
-    "main.0775ca9b.js.map": "/AurianDU/Asynchrone/static/js/main.0775ca9b.js.map"
+    "main.css": "/Asynchrone/static/css/main.872e0df7.css",
+    "main.js": "/Asynchrone/static/js/main.70b6641c.js",
+    "index.html": "/Asynchrone/index.html",
+    "main.872e0df7.css.map": "/Asynchrone/static/css/main.872e0df7.css.map",
+    "main.70b6641c.js.map": "/Asynchrone/static/js/main.70b6641c.js.map"
   },
   "entrypoints": [
     "static/css/main.872e0df7.css",
-    "static/js/main.0775ca9b.js"
+    "static/js/main.70b6641c.js"
   ]
 }
